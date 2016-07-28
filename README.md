@@ -1,2 +1,6 @@
 # hello-world
-this is my first repository
+
+Zup Gangsta!
+
+
+This is my first repository yo ma niggah
